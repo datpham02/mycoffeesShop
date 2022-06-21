@@ -1,10 +1,11 @@
 import { Link } from 'react-router-dom';
 import {useState,useEffect} from 'react';
 import {useDataStore} from '~/components'
-function LeftSideBar() {
+function LeftSideBarHandleProduct() {
     const [categories,setCategories] = useState([]);
     
     const [data] =  useDataStore('category');
+
     useEffect(() => {
         setCategories(data);
     },[data])
@@ -33,4 +34,4 @@ function LeftSideBar() {
 
 
 
-export default LeftSideBar;
+export default LeftSideBarHandleProduct;

@@ -1,0 +1,213 @@
+{
+    "categories" : [
+        {
+            "product" : {
+                "Drinks" : [
+                    "Hot Coffees",
+                    "Hot Teas",
+                    "Hot Drinks"
+                ],
+                "Foods" : [
+                    "Hot Breakfast",
+                    "Bakery",
+                    "Lunch"
+                ]
+            }
+        }
+    ],
+    "product" : [
+    {
+        "id" : 1,
+        "product": "drink",
+        "type" : "Hot Coffees",
+        "name" : "Americanos",
+        "price" : "100",
+        "image" : "https://www.starbucks.com/menu/product/406/hot"
+    },
+    {
+        "id" : 2,
+        "product": "drink",
+        "type" : "Hot Coffees",
+        "name" : "Americanos",
+        "price" : "100",
+        "image" : "https://www.starbucks.com/menu/product/406/hot"
+    },
+    {
+        "id" : 3,
+        "product": "drink",
+        "type" : "Hot Coffees",
+        "name" : "Americanos",
+        "price" : "100",
+        "image" : "https://www.starbucks.com/menu/product/406/hot"
+    },
+    {
+        "id" : 4,
+        "product": "drink",
+        "type" : "Hot Coffees",
+        "name" : "Americanos",
+        "price" : "100",
+        "image" : "https://www.starbucks.com/menu/product/406/hot"
+    },
+    {
+        "id" : 5,
+        "product": "drink",
+        "type" : "Hot Teas",
+        "name" : "Chai Teas",
+        "price" : "100",
+        "image" : "https://www.starbucks.com/menu/product/466/hot"
+    },
+    {
+        "id" : 6,
+        "product": "drink",
+        "type" : "Hot Teas",
+        "name" : "Chai Teas",
+        "price" : "100",
+        "image" : "https://www.starbucks.com/menu/product/466/hot"
+    },
+    {
+        "id" : 7,
+        "product": "drink",
+        "type" : "Hot Teas",
+        "name" : "Chai Teas",
+        "price" : "100",
+        "image" : "https://www.starbucks.com/menu/product/466/hot"
+    },
+    {
+        "id" : 8,
+        "product": "drink",
+        "type" : "Hot Teas",
+        "name" : "Chai Teas",
+        "price" : "100",
+        "image" : "https://www.starbucks.com/menu/product/466/hot"
+    },
+    {
+        "id" : 9,
+        "product": "drink",
+        "type" : "Hot Drinks",
+        "name" : "Hot Chocolates",
+        "price" : "100",
+        "image" : "https://www.starbucks.com/menu/product/471/hot"
+    },
+    {
+        "id" : 10,
+        "product": "drink",
+        "type" : "Hot Drinks",
+        "name" : "Hot Chocolates",
+        "price" : "100",
+        "image" : "https://www.starbucks.com/menu/product/471/hot"
+    },
+    {
+        "id" : 11,
+        "product": "drink",
+        "type" : "Hot Drinks",
+        "name" : "Hot Chocolates",
+        "price" : "100",
+        "image" : "https://www.starbucks.com/menu/product/471/hot"
+    },
+    {
+        "id" : 12,
+        "product": "drink",
+        "type" : "Hot Drinks",
+        "name" : "Hot Chocolates",
+        "price" : "100",
+        "image" : "https://www.starbucks.com/menu/product/471/hot"
+    },
+    {
+        "id" : 1,
+        "product": "food",
+        "type" : "Hot Breakfast",
+        "name" : "Breakfast Sandwiches & Wraps",
+        "price" : "100",
+        "image" : "https://www.starbucks.com/menu/product/2123181/single"
+    },
+    {
+        "id" : 2,
+        "product": "food",
+        "type" : "Hot Breakfast",
+        "name" : "Breakfast Sandwiches & Wraps",
+        "price" : "100",
+        "image" : "https://www.starbucks.com/menu/product/2123181/single"
+    },
+    {
+        "id" : 3,
+        "product": "food",
+        "type" : "Hot Breakfast",
+        "name" : "Breakfast Sandwiches & Wraps",
+        "price" : "100",
+        "image" : "https://www.starbucks.com/menu/product/2123181/single"
+    },
+    {
+        "id" : 4,
+        "product": "food",
+        "type" : "Hot Breakfast",
+        "name" : "Breakfast Sandwiches & Wraps",
+        "price" : "100",
+        "image" : "https://www.starbucks.com/menu/product/2123181/single"
+    },
+    {
+        "id" : 5,
+        "product": "food",
+        "type" : "Bakery",
+        "name" : "Bagels",
+        "price" : "100",
+        "image" : "https://www.starbucks.com/menu/product/340/single"
+    },
+    {
+        "id" : 6,
+        "product": "food",
+        "type" : "Bakery",
+        "name" : "Bagels",
+        "price" : "100",
+        "image" : "https://www.starbucks.com/menu/product/340/single"
+    },
+    {
+        "id" : 7,
+        "product": "food",
+        "type" : "Bakery",
+        "name" : "Bagels",
+        "price" : "100",
+        "image" : "https://www.starbucks.com/menu/product/340/single"
+    },
+    {
+        "id" : 8,
+        "product": "food",
+        "type" : "Bakery",
+        "name" : "Bagels",
+        "price" : "100",
+        "image" : "https://www.starbucks.com/menu/product/340/single"
+    },
+    {
+        "id" : 9,
+        "product": "food",
+        "type" : "Lunch",
+        "name" : "Warm Sandwiches",
+        "price" : "100",
+        "image" : "https://www.starbucks.com/menu/product/2123039/single"
+    },
+    {
+        "id" : 10,
+        "product": "food",
+        "type" : "Lunch",
+        "name" : "Warm Sandwiches",
+        "price" : "100",
+        "image" : "https://www.starbucks.com/menu/product/2123039/single"
+    },
+    {
+        "id" : 11,
+        "product": "food",
+        "type" : "Lunch",
+        "name" : "Warm Sandwiches",
+        "price" : "100",
+        "image" : "https://www.starbucks.com/menu/product/2123039/single"
+    },
+    {
+        "id" : 12,
+        "product": "food",
+        "type" : "Lunch",
+        "name" : "Warm Sandwiches",
+        "price" : "100",
+        "image" : "https://www.starbucks.com/menu/product/2123039/single"
+    }
+     
+    ]
+}

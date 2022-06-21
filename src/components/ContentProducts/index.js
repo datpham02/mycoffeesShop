@@ -1,18 +1,16 @@
 import {Outlet} from 'react-router-dom';
-import {AllProducts} from '~/components'
-function Contents(){
+function ContentProducts(){
     
     return (
         <div className="flex flex-column">
-            <h1 className="text-[30px] font-bold">Menu</h1>
             <div className="h-[100vh] srcollAnble">
-                {<Outlet/>}
+                <Outlet/>
             </div>
         </div>
     )
 }
 
-export default Contents;
+export default ContentProducts;
 
 
 

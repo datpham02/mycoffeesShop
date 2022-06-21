@@ -1,8 +1,7 @@
 import { Header, LeftSideBar, Contents } from '~/components';
-
 function Home() {
     return (
-        <>
+        <div className="bg-home_img text-[#fff] h-[100vh]">
             <Header />
             <div className="container-lg">
                 <div className="row">
@@ -14,7 +13,7 @@ function Home() {
                     </div>
                 </div>
             </div>
-        </>
+        </div>
     );
 }
 
